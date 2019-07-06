@@ -1,0 +1,16 @@
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\bin\Debug\wpfChemie.exe.config
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\bin\Debug\wpfChemie.exe
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\bin\Debug\wpfChemie.pdb
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\MainWindow.g.cs
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\App.g.cs
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie_MarkupCompile.cache
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie_MarkupCompile.lref
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\MainWindow.baml
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.g.resources
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.Properties.Resources.resources
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.csproj.GenerateResource.cache
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.exe
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.pdb
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.csproj.ResolveComReference.cache
+C:\Users\Jacob\Dropbox\Chemie-Action\WPFPrototyp\wpfChemie\wpfChemie\obj\Debug\wpfChemie.csproj.CoreCompileInputs.cache

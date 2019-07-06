@@ -1,0 +1,21 @@
+﻿<Window x:Class="wpfChemie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfChemie"
+        mc:Ignorable="d"
+        Title="Score2Excel"
+        ResizeMode="CanResize"
+        Height="134.937" MinHeight="134.937" MaxHeight="134.937"
+        Width="507.173" MinWidth="507.173" Background="White">
+    <Grid>
+        <WrapPanel HorizontalAlignment="Left" Height="80" Margin="24,10,0,0" VerticalAlignment="Top" Width="76">
+            <RadioButton Content="CATD" Name="catdButton" Checked="setCATD" IsChecked="True"/>
+            <RadioButton Content="Plasmin" Margin="0,15,0,0" Name="PlasminButton" Checked="setPlasmin"/>
+            <RadioButton Content="Thrombin" Margin="0,15,0,0" Name="ThrombinButton" Checked="setThrombin"/>
+        </WrapPanel>
+        <TextBox Height="80" Margin="127,10,141,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Name="input" TextChanged="checkString"/>
+        <Button Margin="0,10,15,0" Content="Export" Height="80" VerticalAlignment="Top" Click="createExcel" Name="exportButton" IsEnabled="False" BorderBrush="Black" HorizontalAlignment="Right" Width="107"/>
+    </Grid>
+</Window>
